@@ -1,0 +1,22 @@
+==============================================================================================================================================
+==            Separator | Nah mais si tu lis ça tu t'ennuyes dans ta vie, fait quelque chose d'autre comme lire ou s'instruire              ==
+==============================================================================================================================================
+[2024-03-20 18:51:55]-[Action] get_data() info: ...
+[2024-03-20 18:51:55]-[Action] read_data() info: [['Shorp', 1200, 1, 10], ['Atsouky', 2400, 2, 20], ['GrosCarabe', 4800, 4, 40]]
+[2024-03-20 19:02:39]-[Action] get_data() info: ...
+[2024-03-20 19:02:39]-[Action] read_data() info: [['Shorp', 1200, 1, 10], ['Atsouky', 2400, 2, 20], ['GrosCarabe', 4800, 4, 40]]
+[2024-03-20 19:07:20]-[Action] get_data() info: ...
+[2024-03-20 19:07:20]-[Action] read_data() info: [['Shorp', 1200, 1, 10], ['Atsouky', 2400, 2, 20], ['GrosCarabe', 4800, 4, 40]]
+[2024-03-20 19:07:20]-[Action] inGame_data() info:  extract n:1, name: Atsouky, score: 2400, level: 2, xp: 20
+[2024-03-20 19:10:06]-[Action] set_data() info: HC_514_22,1700,1,10,
+[2024-03-20 19:10:06]-[Action] get_data() info: ...
+[2024-03-20 19:16:19]-[Action] inGame_data_reverse() info:  __Goff__,1000,2,20,
+
+[2024-03-20 19:16:19]-[Action] set_data() info: __Goff__,1000,2,20,
+
+[2024-03-20 19:16:19]-[Action] get_data() info: ...
+[2024-03-20 19:16:49]-[Action] inGame_data_reverse() info:  __Goff__,1000,2,20,
+
+[2024-03-20 19:16:49]-[Action] set_data() info: __Goff__,1000,2,20,
+
+[2024-03-20 19:16:49]-[Action] get_data() info: ...

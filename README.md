@@ -1,7 +1,7 @@
 # Save Game System
 ## Sommaire:
-### [1. Fonctions](https://github.com/ShorpAzha/tron_system#fonctions)
-### [2. Intégration (*WIP*)](https://github.com/ShorpAzha/tron_system#ajout-dans-un-jeu-d%C3%A9j%C3%A0-existants)
+### [1. Fonctions](#fonctions)
+### [2. Intégration (*WIP*)](#ajout-dans-un-jeu-déjà-existants-en-cours-de-création)
 ## Fonctions:
 ### get_data(filename)
 Récupére les données de ```filename```

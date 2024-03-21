@@ -17,7 +17,9 @@ Trouve le ```string``` dans la table ```l```
 ## Ajout dans un jeu déjà existants
 ### Dans le script du jeu
 Pour l'intégré, il faut bien sûr utiliser:
-```from system import *```
+```
+from system import *
+```
 Ensuite, pour sauvegarder les données:
 ```
 statsj1=([name_j1],[score],[level],[xp])

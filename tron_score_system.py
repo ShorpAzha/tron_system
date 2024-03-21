@@ -1,3 +1,14 @@
+''' 
+===================================================================
+==                   #####                  #  #                 ==
+==                  #    #                   ##                  ==
+==                   ##  ###   #  # # ###   #  #                 ==
+==                     # #  # # # #   #  #  #  #                 ==
+==     make by     ####  #  # ##  #   ###    ##                  ==
+==                                    #                          ==
+==                                    #                          ==
+===================================================================
+'''
 from time import gmtime, strftime
 import os
 
@@ -8,7 +19,8 @@ log={
     11:'get_data() info:', 12:'set_data() info:',
     13:'mod_data() info:', 14:'read_data() info:',
     15:'inGame_data() info:', 16:'inGame_data_reverse() info:',
-    100:'score.txt',101:'debug.txt'
+    17:'find() info:',
+    100:'score.txt', 101:'debug.txt', 102:'exp.txt'
 }
 
 def get_data(filename):
@@ -58,6 +70,14 @@ def reader_data(filename):
     log_debug_add(0,14,l)
     return l
 
+def find(string='',l=[]):
+    content=None
+    for i in l:
+        if i[0] == string:
+            content=i
+    log_debug_add(0,17,' data find: '+str(content))
+    return content
+
 def inGame_data(l=[],c=0):
     list_=l[c]
     name=list_[0]
@@ -73,9 +93,6 @@ def Ingame_data_reverse(stats=()):
     content=str(name)+','+str(score)+','+str(level)+','+str(xp)+',\n'
     log_debug_add(0,16,' '+content)
     return content
-
-#set_data('score.txt',Ingame_data_reverse(('__Goff__',1000,2,20)))
-#print(inGame_data(reader_data('score.txt'),1))
 
 ''' Commentaires:
 print(reader_data('score.txt'))

@@ -2,7 +2,7 @@
 ## Functions:
 ### get_data(filename)
 récupére les données de filename (chemin)
-### set_data(filename, string='')
+### set_data(filename, string)
 ajoute les données string à filename
 ### mod_data(filename, string, place)
 modifie les données données en [place] en string dans filename

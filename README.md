@@ -9,7 +9,7 @@ Modifie/Remplace les données en ```place``` par ```string``` dans ```filename``
 ### reader_data(filename)
 Lit les données de ```filename``` et en fait une table
 ### inGame_data(l,c)
-Prend la table n°```c``` dans la table ````l``` et l'extait en format ```stats```
+Prend la table n°```c``` dans la table ```l``` et l'extait en format ```stats```
 ### inGame_data_reverse(stats)
 Convertie le tuple ```stats``` en une table èn format ```stats```
 ### find(string,l)

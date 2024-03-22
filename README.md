@@ -1,32 +1,47 @@
 # Save Game System
 ## Sommaire:
 ### [1. Fonctions](#fonctions)
-### [2. Intégration (*WIP*)](#ajout-dans-un-jeu-déjà-existants-en-cours-de-création)
+### [2. Intégration (*WIP*)](#ajout-dans-un-jeu-déjà-existants)
 ## Fonctions:
 ### get_data(filename)
 Récupére les données de ```filename```
 ### set_data(filename, string)
-Ajoute les données ```string``` à ```filename```
-### mod_data(filename, string, place)
-Modifie/Remplace les données en ```place``` par ```string``` dans ```filename```
+Ajoute les données ```string``` à ```filename``` à la fin du fichier
+### mod_data(filename, stats, name)
+Remplace les données de ```name``` en ```stats``` qui est demandé comme un tuple, dans ```filename```
 ### reader_data(filename)
-Lit les données de ```filename``` et en fait une table
-### inGame_data(l,c)
-Prend la table n°```c``` dans la table ```l``` et l'extait en format ```stats```
-### inGame_data_reverse(stats)
-Convertie le tuple ```stats``` en une table èn format ```stats```
+Lit les données de ```filename``` et en retourne une table
 ### find(string,l)
 Trouve le ```string``` dans la table ```l```
-## Ajout dans un jeu déjà existants (en cours de création)
-### Dans le script du jeu *WIP*
-Pour l'intégré, il faut bien sûr utiliser:
+### find_data_place(string,l)
+Trouve l'emplacement de ```string``` dans la table ```l``` et en retourne la valeur
+### inGame_data(l,c)
+Prend la table n°```c``` dans la table ```l``` et le retourne en tuple ```stats```
+### inGame_data_reverse(stats)
+Convertie le tuple ```stats``` en une table en format ```stats```
+## Ajout dans un jeu déjà existants
+### Partie haute du script
+Avant l'import de pygame ou du module graphique, mettre:
 ```
-from score_system import *
+user=False
+while user==False:
+    user_name_j1=input('J1:')
+    #user_name_j2=input('J2:')
+    user=True
 ```
-Ensuite, pour sauvegarder les données:
+Ici, il y a besoin de 2 joueurs: ```user_name_j1``` & ```user_name_j2```, mais il est possible d'en ajouter autant que souhaité. Il faut simplement en ajouter autant par morceaux suivants.
+
+Ensuite, plus loin, après les variables pour optimisé son script et ainsi le rendre plus lisible:
 ```
-statsj1=([name_j1],[score],[level],[xp])
-set_data(log[100],Ingame_data_reverse(statsj1))
+user_srch=find(user_name_j1,reader_data(log[100]))
+exist=False
+if user_srch == None: scoretot=0; xp=0
+else: scoretot=user_srch[1]; xp=user_srch[3]; exist=True
+score=0
 ```
-La variable: ```log[100]``` correspond au fichier ```'scrore.txt'```
-*WIP*
+Enfin, à la fin du script, une fois le jeu éteint mais pas le script:
+```
+statsj1=(user_name_j1,scoretot,0,xp)
+if exist == True: mod_data(log[100],statsj1,user_name_j1)
+else: set_data(log[100],Ingame_data_reverse(statsj1))
+```

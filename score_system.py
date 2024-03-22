@@ -19,7 +19,7 @@ log={
     11:'get_data() info:', 12:'set_data() info:',
     13:'mod_data() info:', 14:'read_data() info:',
     15:'inGame_data() info:', 16:'inGame_data_reverse() info:',
-    17:'find() info:',
+    17:'find() info:', 18:'find_data_place() info:',
     100:'score.txt', 101:'debug.txt', 102:'exp.txt'
 }
 
@@ -37,12 +37,22 @@ def set_data(filename,string=''):
     file.close()
     return get_data(filename)
 
-def mod_data(filename,string,place):
-    content=get_data(filename)
+def mod_data(filename,stats,name):
+    content=reader_data(filename)
     file=open(filename,'w')
-    content_modif=content[0:int(place)]+string+content[int(place)+len(string):len(content)]
-    file.write(content_modif)
-    log_debug_add(0,13,str(string)+' at '+str(place))
+    (name_,score,level,xp)=stats
+    #(name_,score,level,xp)=inGame_data(content,find_data_place(str(name),content))
+    content_modif=[name_,score,level,xp]
+    print(content_modif)
+    del content[find_data_place(str(name),content)]
+    content.append(content_modif)
+    print(content)
+    data=''
+    for i in range(0,len(content)):
+        data+=Ingame_data_reverse(inGame_data(content,i))
+    file.write(data)
+    log_debug_add(0,13,str(stats)+' in score of: '+str(name))
+    
     file.close()
     return get_data(filename)
 
@@ -78,6 +88,14 @@ def find(string='',l=[]):
     log_debug_add(0,17,' data find: '+str(content))
     return content
 
+def find_data_place(string='',l=[]):
+    place=0
+    for i in range(0,len(l)):
+        if l[i][0] == string:
+            place=i
+    log_debug_add(0,18,' dat find at: '+str(place))
+    return place
+
 def inGame_data(l=[],c=0):
     list_=l[c]
     name=list_[0]
@@ -94,7 +112,26 @@ def Ingame_data_reverse(stats=()):
     log_debug_add(0,16,' '+content)
     return content
 
-''' Commentaires:
+#print(find_data_place('Shorp',reader_data(log[100])))
+#print(Ingame_data_reverse(inGame_data(reader_data(log[100]),find_data_place('Shorp',reader_data(log[100])))))
+
+'''
+stats=('Shorp',2990,0,9)
+mod_data(log[100],stats,'Shorp')
+
+content=reader_data(log[100])
+print(content)
+del content[find_data_place('Shorp',reader_data(log[100]))]
+print(content)
+
+statsj2=('Essai',1000,0,0)
+set_data(log[102],Ingame_data_reverse(statsj2))
+user=find('Essai',reader_data(log[102]))
+if user == None:
+    print('non existant')
+else:
+    print('existant')
+
 print(reader_data('score.txt'))
 print(set_data('score.txt','Essai,1,1,1,\n'))
 mod_data('score.txt','3',6)

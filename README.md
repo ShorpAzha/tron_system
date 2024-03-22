@@ -30,7 +30,7 @@ while user==False:
     user=True
 ```
 Ici, il y a besoin de 2 joueurs: ```user_name_j1``` & ```user_name_j2```, mais il est possible d'en ajouter autant que souhaité. Il faut simplement en ajouter autant par morceaux suivants.
-
+### Partie variables
 Ensuite, plus loin, après les variables pour optimisé son script et ainsi le rendre plus lisible:
 ```
 user_srch=find(user_name_j1,reader_data(log[100]))
@@ -39,6 +39,7 @@ if user_srch == None: scoretot=0; xp=0
 else: scoretot=user_srch[1]; xp=user_srch[3]; exist=True
 score=0
 ```
+### Partie Basse
 Enfin, à la fin du script, une fois le jeu éteint mais pas le script:
 ```
 statsj1=(user_name_j1,scoretot,0,xp)

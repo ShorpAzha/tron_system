@@ -1,7 +1,7 @@
 # Save Game System
 ## Sommaire:
 ### [1. Fonctions](#fonctions)
-### [2. Intégration (*WIP*)](#ajout-dans-un-jeu-déjà-existants)
+### [2. Intégration](#ajout-dans-un-jeu-déjà-existants)
 ## Fonctions:
 ### get_data(filename)
 Récupére les données de ```filename```

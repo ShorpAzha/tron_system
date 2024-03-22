@@ -63,6 +63,28 @@ def log_debug_add(cts=0,txt=10,text=''):
     file.write(content)
     file.close()
 
+def log_debug_get_num(date):
+    (year,month,day,hour,minut,second)=date
+    date_mod='['+str(year)+'-'+str(month)+'-'+str(day)\
+        +' '+str(hour)+':'+str(minut)+':'+str(second)+']'
+    content=get_data(log[101])
+    data=''; ln=[]
+    for i in content:
+        if i == '\n': ln.append(data); data=''
+        else: data+=str(i)
+    inDate_content=[]
+    for  j in range(0,len(ln)):
+        if ln[j][0:21] == date_mod: inDate_content.append(j)
+    return inDate_content, ln
+
+def log_debug_get_data(date,printable=False):
+    (inDate_content,ln)=log_debug_get_num(date)
+    inDate_content_unlisted=[]
+    for k in inDate_content:
+        inDate_content_unlisted.append(ln[k])
+        if printable == True: print(ln[k])
+    return inDate_content_unlisted
+
 def reader_data(filename):
     content=get_data(filename)
     list_ln=0; data=''; l=[]; l_data=[]
@@ -111,6 +133,8 @@ def Ingame_data_reverse(stats=()):
     content=str(name)+','+str(score)+','+str(level)+','+str(xp)+',\n'
     log_debug_add(0,16,' '+content)
     return content
+
+#log_debug_get_data((2024,'03',22,19,58,'06'),True)
 
 #print(find_data_place('Shorp',reader_data(log[100])))
 #print(Ingame_data_reverse(inGame_data(reader_data(log[100]),find_data_place('Shorp',reader_data(log[100])))))

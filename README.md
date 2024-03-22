@@ -1,8 +1,9 @@
 # Save Game System
 ## Sommaire:
-### [1. Fonctions](#fonctions)
+### [1. Fonctions basiques](#fonctions-base)
 ### [2. Intégration](#ajout-dans-un-jeu-déjà-existants)
-## Fonctions:
+### [3. Fonctions avancées](#fonctions-avancées)
+## Fonctions base:
 ### get_data(filename)
 Récupére les données de ```filename```
 ### set_data(filename, string)
@@ -46,3 +47,14 @@ statsj1=(user_name_j1,scoretot,0,xp)
 if exist == True: mod_data(log[100],statsj1,user_name_j1)
 else: set_data(log[100],Ingame_data_reverse(statsj1))
 ```
+## Fonctions avancées
+### log_debug_add(cts,txt,text)
+Avec: ```cts``` un entier, ```txt``` un entier & ```text``` une chaine de caractère.
+Ajoute une ligne dans le fichier ```debug.txt```.
+### log_debug_get_num(date)
+Avec: ```date``` la date dans un tuple ```(year,month,day,hour,minut,second)```.
+Retourne la valeur de la ligne dans le fichier ```debug.txt``` où se trouve la ligne écrite à la date ```date```.
+### log_debug_get_data(date,printable)
+Avec: ```date``` la date dans un tuple ```(year,month,day,hour,minut,second)``` & ```printable``` une variable booléenne.
+Retourne les lignes entières de ```debug.txt``` écrite à la date ```date```.
+Complément de [log_debug_get_num()](#log_debug_get_numdate).

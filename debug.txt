@@ -1,3 +1,877 @@
 ==============================================================================================================================================
 ==            Separator | Nah mais si tu lis Ã§a tu t'ennuyes dans ta vie, fait quelque chose d'autre comme lire ou s'instruire              ==
 ==============================================================================================================================================
+[2024-03-21 10:29:12]-[Action] inGame_data_reverse() info:  Shorp,4807,0,0,
+
+[2024-03-21 10:29:12]-[Action] set_data() info: Shorp,4807,0,0,
+
+[2024-03-21 10:29:12]-[Action] get_data() info: ...
+[2024-03-21 10:29:12]-[Action] inGame_data_reverse() info:  Groscarabe,2039,0,0,
+
+[2024-03-21 10:29:12]-[Action] set_data() info: Groscarabe,2039,0,0,
+
+[2024-03-21 10:29:12]-[Action] get_data() info: ...
+[2024-03-21 12:52:07]-[Action] inGame_data_reverse() info:  Leo,2535,0,0,
+
+[2024-03-21 12:52:07]-[Action] set_data() info: Leo,2535,0,0,
+
+[2024-03-21 12:52:07]-[Action] get_data() info: ...
+[2024-03-21 12:52:07]-[Action] inGame_data_reverse() info:  Shorp,7642,0,0,
+
+[2024-03-21 12:52:07]-[Action] set_data() info: Shorp,7642,0,0,
+
+[2024-03-21 12:52:07]-[Action] get_data() info: ...
+[2024-03-21 12:55:44]-[Action] inGame_data_reverse() info:  Th2O,1823,0,0,
+
+[2024-03-21 12:55:44]-[Action] set_data() info: Th2O,1823,0,0,
+
+[2024-03-21 12:55:44]-[Action] get_data() info: ...
+[2024-03-21 12:55:44]-[Action] inGame_data_reverse() info:  Shorp,9080,0,0,
+
+[2024-03-21 12:55:44]-[Action] set_data() info: Shorp,9080,0,0,
+
+[2024-03-21 12:55:44]-[Action] get_data() info: ...
+[2024-03-21 17:29:18]-[Action] inGame_data_reverse() info:  Essai,1000,0,0,
+
+[2024-03-21 17:29:18]-[Action] set_data() info: Essai,1000,0,0,
+
+[2024-03-21 17:29:18]-[Action] get_data() info: ...
+[2024-03-21 17:30:05]-[Action] get_data() info: ...
+[2024-03-21 17:30:05]-[Action] read_data() info: [['Essai', 1000, 0, 0]]
+[2024-03-21 17:30:11]-[Action] get_data() info: ...
+[2024-03-21 17:30:11]-[Action] read_data() info: [['Essai', 1000, 0, 0]]
+[2024-03-21 17:34:27]-[Action] inGame_data_reverse() info:  Essai,1000,0,0,
+[2024-03-21 17:34:27]-[Action] set_data() info: Essai,1000,0,0,
+[2024-03-21 17:34:27]-[Action] get_data() info: ...
+[2024-03-21 17:34:27]-[Action] get_data() info: ...
+[2024-03-21 17:34:27]-[Action] read_data() info: [['Essai', 1000, 0, 0]]
+[2024-03-21 17:36:14]-[Action] inGame_data_reverse() info:  Essai,1000,0,0,
+[2024-03-21 17:36:14]-[Action] set_data() info: Essai,1000,0,0,
+[2024-03-21 17:36:14]-[Action] get_data() info: ...
+[2024-03-21 17:36:14]-[Action] get_data() info: ...
+[2024-03-21 17:36:14]-[Action] read_data() info: [['Essai', 1000, 0, 0], ['Essai', 1000, 0, 0]]
+[2024-03-21 17:36:14]-[Action] find() info:  data find: ['Essai', 1000, 0, 0]
+[2024-03-21 17:38:44]-[Action] inGame_data_reverse() info:  Esai,1000,0,0,
+[2024-03-21 17:38:44]-[Action] set_data() info: Esai,1000,0,0,
+[2024-03-21 17:38:44]-[Action] get_data() info: ...
+[2024-03-21 17:38:44]-[Action] get_data() info: ...
+[2024-03-21 17:38:44]-[Action] read_data() info: [['Esai', 1000, 0, 0]]
+[2024-03-21 17:38:44]-[Action] find() info:  data find: None
+[2024-03-21 17:38:57]-[Action] inGame_data_reverse() info:  Essai,1000,0,0,
+[2024-03-21 17:38:57]-[Action] set_data() info: Essai,1000,0,0,
+[2024-03-21 17:38:57]-[Action] get_data() info: ...
+[2024-03-21 17:38:57]-[Action] get_data() info: ...
+[2024-03-21 17:38:57]-[Action] read_data() info: [['Essai', 1000, 0, 0]]
+[2024-03-21 17:38:57]-[Action] find() info:  data find: ['Essai', 1000, 0, 0]
+[2024-03-21 19:14:52]-[Action] inGame_data_reverse() info:  Essai,1000,0,0,
+
+[2024-03-21 19:14:52]-[Action] set_data() info: Essai,1000,0,0,
+
+[2024-03-21 19:14:52]-[Action] get_data() info: ...
+[2024-03-21 19:14:52]-[Action] get_data() info: ...
+[2024-03-21 19:15:41]-[Action] get_data() info: ...
+[2024-03-21 19:16:35]-[Action] get_data() info: ...
+[2024-03-21 19:16:35]-[Action] read_data() info: [['A', 100, 0, 0], ['B', 100, 0, 0]]
+[2024-03-21 19:16:35]-[Action] find() info:  data find: ['A', 100, 0, 0]
+[2024-03-21 19:16:35]-[Action] get_data() info: ...
+[2024-03-21 19:16:35]-[Action] read_data() info: [['A', 100, 0, 0], ['B', 100, 0, 0]]
+[2024-03-21 19:16:35]-[Action] find() info:  data find: ['B', 100, 0, 0]
+[2024-03-21 19:16:42]-[Action] inGame_data_reverse() info:  A,0,0,0,
+
+[2024-03-21 19:16:42]-[Action] set_data() info: A,0,0,0,
+
+[2024-03-21 19:16:42]-[Action] get_data() info: ...
+[2024-03-21 19:16:42]-[Action] inGame_data_reverse() info:  B,174,0,0,
+
+[2024-03-21 19:16:42]-[Action] set_data() info: B,174,0,0,
+
+[2024-03-21 19:16:42]-[Action] get_data() info: ...
+[2024-03-21 19:17:54]-[Action] get_data() info: ...
+[2024-03-21 19:17:54]-[Action] read_data() info: [['A', 100, 0, 0], ['B', 100, 0, 0]]
+[2024-03-21 19:17:54]-[Action] find() info:  data find: ['A', 100, 0, 0]
+[2024-03-21 19:17:54]-[Action] get_data() info: ...
+[2024-03-21 19:17:54]-[Action] read_data() info: [['A', 100, 0, 0], ['B', 100, 0, 0]]
+[2024-03-21 19:17:54]-[Action] find() info:  data find: ['B', 100, 0, 0]
+[2024-03-21 19:18:15]-[Action] inGame_data_reverse() info:  A,100,0,0,
+
+[2024-03-21 19:18:15]-[Action] set_data() info: A,100,0,0,
+
+[2024-03-21 19:18:15]-[Action] get_data() info: ...
+[2024-03-21 19:18:15]-[Action] inGame_data_reverse() info:  B,1345,0,0,
+
+[2024-03-21 19:18:15]-[Action] set_data() info: B,1345,0,0,
+
+[2024-03-21 19:18:15]-[Action] get_data() info: ...
+[2024-03-21 19:27:06]-[Action] get_data() info: ...
+[2024-03-21 19:27:06]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0]]
+[2024-03-21 19:27:06]-[Action] find() info:  data find: None
+[2024-03-21 19:27:06]-[Action] get_data() info: ...
+[2024-03-21 19:27:06]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0]]
+[2024-03-21 19:27:06]-[Action] find() info:  data find: None
+[2024-03-21 19:27:43]-[Action] inGame_data_reverse() info:  Shorp,1115,0,4,
+
+[2024-03-21 19:27:43]-[Action] set_data() info: Shorp,1115,0,4,
+
+[2024-03-21 19:27:43]-[Action] get_data() info: ...
+[2024-03-21 19:27:43]-[Action] inGame_data_reverse() info:  Antarès,700,0,2,
+
+[2024-03-21 19:27:43]-[Action] set_data() info: Antarès,700,0,2,
+
+[2024-03-21 19:27:43]-[Action] get_data() info: ...
+[2024-03-21 19:28:48]-[Action] get_data() info: ...
+[2024-03-21 19:28:48]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 1115, 0, 4], ['Antares', 700, 0, 2]]
+[2024-03-21 19:28:48]-[Action] find() info:  data find: ['Shorp', 1115, 0, 4]
+[2024-03-21 19:28:48]-[Action] get_data() info: ...
+[2024-03-21 19:28:48]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 1115, 0, 4], ['Antares', 700, 0, 2]]
+[2024-03-21 19:28:48]-[Action] find() info:  data find: ['Antares', 700, 0, 2]
+[2024-03-21 19:29:19]-[Action] inGame_data_reverse() info:  Shorp,2747,0,6,
+
+[2024-03-21 19:29:19]-[Action] set_data() info: Shorp,2747,0,6,
+
+[2024-03-21 19:29:19]-[Action] get_data() info: ...
+[2024-03-21 19:29:19]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-21 19:29:19]-[Action] set_data() info: Antares,700,0,2,
+
+[2024-03-21 19:29:19]-[Action] get_data() info: ...
+[2024-03-21 19:34:45]-[Action] get_data() info: ...
+[2024-03-21 19:34:45]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:34:45]-[Action] find() info:  dat find at: 3
+[2024-03-21 19:45:24]-[Action] get_data() info: ...
+[2024-03-21 19:45:24]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:45:24]-[Action] find_data_place() info:  dat find at: None
+[2024-03-21 19:45:38]-[Action] get_data() info: ...
+[2024-03-21 19:45:38]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:45:38]-[Action] find_data_place() info:  dat find at: None
+[2024-03-21 19:47:03]-[Action] get_data() info: ...
+[2024-03-21 19:47:03]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:47:03]-[Action] get_data() info: ...
+[2024-03-21 19:47:03]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:47:03]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 19:47:03]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 19:47:22]-[Action] get_data() info: ...
+[2024-03-21 19:47:22]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:47:22]-[Action] get_data() info: ...
+[2024-03-21 19:47:22]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:47:22]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 19:47:22]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 19:47:22]-[Action] inGame_data_reverse() info:  Shorp,2747,0,6,
+
+[2024-03-21 19:53:57]-[Action] get_data() info: ...
+[2024-03-21 19:53:57]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:53:57]-[Action] get_data() info: ...
+[2024-03-21 19:53:57]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:53:57]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 19:53:57]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 19:53:57]-[Action] inGame_data_reverse() info:  Shorp,2747,0,6,
+
+[2024-03-21 19:53:57]-[Action] get_data() info: ...
+[2024-03-21 19:53:57]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:53:57]-[Action] get_data() info: ...
+[2024-03-21 19:53:57]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:53:57]-[Action] get_data() info: ...
+[2024-03-21 19:53:57]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:53:57]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 19:55:03]-[Action] get_data() info: ...
+[2024-03-21 19:55:03]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:55:03]-[Action] get_data() info: ...
+[2024-03-21 19:55:03]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:55:03]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 19:55:03]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 19:55:03]-[Action] inGame_data_reverse() info:  Shorp,2747,0,6,
+
+[2024-03-21 19:55:03]-[Action] get_data() info: ...
+[2024-03-21 19:55:03]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:55:03]-[Action] get_data() info: ...
+[2024-03-21 19:55:03]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:55:03]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 19:58:42]-[Action] get_data() info: ...
+[2024-03-21 19:58:42]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 19:58:42]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 19:58:42]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 19:58:42]-[Action] inGame_data_reverse() info:  Shorp,2747,0,6,
+
+[2024-03-21 19:58:42]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:00:36]-[Action] get_data() info: ...
+[2024-03-21 20:00:36]-[Action] read_data() info: []
+[2024-03-21 20:00:36]-[Action] find_data_place() info:  dat find at: None
+[2024-03-21 20:01:25]-[Action] get_data() info: ...
+[2024-03-21 20:01:25]-[Action] read_data() info: []
+[2024-03-21 20:01:25]-[Action] find_data_place() info:  dat find at: None
+[2024-03-21 20:02:31]-[Action] get_data() info: ...
+[2024-03-21 20:02:31]-[Action] read_data() info: []
+[2024-03-21 20:02:31]-[Action] find_data_place() info:  dat find at: None
+[2024-03-21 20:03:06]-[Action] get_data() info: ...
+[2024-03-21 20:03:06]-[Action] read_data() info: []
+[2024-03-21 20:03:06]-[Action] find_data_place() info:  dat find at: 0
+[2024-03-21 20:03:33]-[Action] get_data() info: ...
+[2024-03-21 20:03:33]-[Action] read_data() info: []
+[2024-03-21 20:03:33]-[Action] find_data_place() info:  dat find at: 0
+[2024-03-21 20:04:59]-[Action] get_data() info: ...
+[2024-03-21 20:04:59]-[Action] read_data() info: []
+[2024-03-21 20:04:59]-[Action] find_data_place() info:  dat find at: 0
+[2024-03-21 20:05:38]-[Action] get_data() info: ...
+[2024-03-21 20:05:38]-[Action] read_data() info: []
+[2024-03-21 20:05:38]-[Action] find_data_place() info:  dat find at: 0
+[2024-03-21 20:07:02]-[Action] get_data() info: ...
+[2024-03-21 20:07:02]-[Action] read_data() info: []
+[2024-03-21 20:07:02]-[Action] find_data_place() info:  dat find at: 0
+[2024-03-21 20:07:02]-[Action] find_data_place() info:  dat find at: 0
+[2024-03-21 20:07:23]-[Action] get_data() info: ...
+[2024-03-21 20:07:23]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 20:07:23]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:07:23]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:07:23]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 20:07:23]-[Action] inGame_data_reverse() info:  Shorp,2747,0,6,
+
+[2024-03-21 20:07:23]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:07:23]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-21 20:08:27]-[Action] get_data() info: ...
+[2024-03-21 20:08:27]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 20:08:27]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:08:27]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:08:27]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 20:08:27]-[Action] inGame_data_reverse() info:  Shorp,2747,0,6,
+
+[2024-03-21 20:08:27]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:08:27]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-21 20:08:27]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-21 20:08:27]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-21 20:08:27]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-21 20:08:27]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-21 20:08:27]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-21 20:08:27]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 700, level: 0, xp: 2
+[2024-03-21 20:08:27]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-21 20:08:27]-[Action] mod_data() info: ('Shorp', 1200, 0, 3) in score of: Shorp
+[2024-03-21 20:08:27]-[Action] get_data() info: ...
+[2024-03-21 20:09:01]-[Action] get_data() info: ...
+[2024-03-21 20:09:01]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 20:09:01]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:09:01]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:09:01]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 20:09:01]-[Action] inGame_data_reverse() info:  Shorp,2747,0,6,
+
+[2024-03-21 20:09:01]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:09:01]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-21 20:09:01]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-21 20:09:01]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-21 20:09:01]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-21 20:09:01]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-21 20:09:01]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-21 20:09:01]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 700, level: 0, xp: 2
+[2024-03-21 20:09:01]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-21 20:09:01]-[Action] inGame_data() info:  extract n:4, name: S, score: h, level: o, xp: r
+[2024-03-21 20:09:01]-[Action] inGame_data_reverse() info:  S,h,o,r,
+
+[2024-03-21 20:09:01]-[Action] mod_data() info: ('Shorp', 1200, 0, 3) in score of: Shorp
+[2024-03-21 20:09:01]-[Action] get_data() info: ...
+[2024-03-21 20:09:48]-[Action] get_data() info: ...
+[2024-03-21 20:09:48]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 20:09:48]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:09:48]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 20:09:48]-[Action] inGame_data_reverse() info:  Shorp,2747,0,6,
+
+[2024-03-21 20:09:48]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:09:48]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-21 20:09:48]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-21 20:09:48]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-21 20:09:48]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-21 20:09:48]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-21 20:09:48]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-21 20:09:48]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 700, level: 0, xp: 2
+[2024-03-21 20:09:48]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-21 20:09:48]-[Action] inGame_data() info:  extract n:4, name: S, score: h, level: o, xp: r
+[2024-03-21 20:09:48]-[Action] inGame_data_reverse() info:  S,h,o,r,
+
+[2024-03-21 20:09:48]-[Action] mod_data() info: ('Shorp', 1200, 0, 3) in score of: Shorp
+[2024-03-21 20:09:48]-[Action] get_data() info: ...
+[2024-03-21 20:10:11]-[Action] get_data() info: ...
+[2024-03-21 20:10:20]-[Action] get_data() info: ...
+[2024-03-21 20:10:20]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 20:10:20]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:10:20]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 20:10:20]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:10:20]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-21 20:10:20]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-21 20:10:20]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-21 20:10:20]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-21 20:10:20]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-21 20:10:20]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-21 20:10:20]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 700, level: 0, xp: 2
+[2024-03-21 20:10:20]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-21 20:10:20]-[Action] inGame_data() info:  extract n:4, name: (, score: ', level: S, xp: h
+[2024-03-21 20:10:20]-[Action] inGame_data_reverse() info:  (,',S,h,
+
+[2024-03-21 20:10:20]-[Action] mod_data() info: ('Shorp', 1200, 0, 3) in score of: Shorp
+[2024-03-21 20:10:20]-[Action] get_data() info: ...
+[2024-03-21 20:10:54]-[Action] get_data() info: ...
+[2024-03-21 20:11:04]-[Action] get_data() info: ...
+[2024-03-21 20:11:04]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 20:11:04]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:11:04]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 20:11:04]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:11:04]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-21 20:11:04]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-21 20:11:04]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-21 20:11:04]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-21 20:11:04]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-21 20:11:04]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-21 20:11:04]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 700, level: 0, xp: 2
+[2024-03-21 20:11:04]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-21 20:11:04]-[Action] inGame_data() info:  extract n:4, name: (, score: ', level: S, xp: h
+[2024-03-21 20:11:04]-[Action] inGame_data_reverse() info:  (,',S,h,
+
+[2024-03-21 20:11:04]-[Action] mod_data() info: ('Shorp', 1200, 0, 3) in score of: Shorp
+[2024-03-21 20:11:04]-[Action] get_data() info: ...
+[2024-03-21 20:11:19]-[Action] get_data() info: ...
+[2024-03-21 20:11:19]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 20:11:19]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:11:19]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 20:11:19]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:11:19]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-21 20:11:19]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-21 20:11:19]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-21 20:11:19]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-21 20:11:19]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-21 20:11:19]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-21 20:11:19]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 700, level: 0, xp: 2
+[2024-03-21 20:11:19]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-21 20:11:19]-[Action] inGame_data() info:  extract n:4, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 20:11:19]-[Action] inGame_data_reverse() info:  Shorp,2747,0,6,
+
+[2024-03-21 20:11:19]-[Action] mod_data() info: ('Shorp', 1200, 0, 3) in score of: Shorp
+[2024-03-21 20:11:19]-[Action] get_data() info: ...
+[2024-03-21 20:11:33]-[Action] get_data() info: ...
+[2024-03-21 20:11:33]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 700, 0, 2], ['Shorp', 2747, 0, 6]]
+[2024-03-21 20:11:33]-[Action] find_data_place() info:  dat find at: 4
+[2024-03-21 20:11:33]-[Action] inGame_data() info:  extract n:4, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 20:11:33]-[Action] find_data_place() info:  dat find at: 4
+[2024-03-21 20:11:33]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-21 20:11:33]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-21 20:11:33]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-21 20:11:33]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-21 20:11:33]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-21 20:11:33]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-21 20:11:33]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 700, level: 0, xp: 2
+[2024-03-21 20:11:33]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-21 20:11:40]-[Action] get_data() info: ...
+[2024-03-21 20:11:40]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 20:11:40]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:11:40]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 20:11:40]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:11:40]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-21 20:11:40]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-21 20:11:40]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-21 20:11:40]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-21 20:11:40]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-21 20:11:40]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-21 20:11:40]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 700, level: 0, xp: 2
+[2024-03-21 20:11:40]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-21 20:13:44]-[Action] get_data() info: ...
+[2024-03-21 20:13:44]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-21 20:13:44]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:13:44]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 20:13:44]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-21 20:13:44]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-21 20:13:44]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-21 20:13:44]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-21 20:13:44]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-21 20:13:44]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-21 20:13:44]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-21 20:13:44]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 700, level: 0, xp: 2
+[2024-03-21 20:13:44]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-21 20:13:44]-[Action] inGame_data() info:  extract n:4, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-21 20:13:44]-[Action] inGame_data_reverse() info:  Shorp,2747,0,6,
+
+[2024-03-21 20:13:44]-[Action] mod_data() info: ('Shorp', 1200, 0, 3) in score of: Shorp
+[2024-03-21 20:13:44]-[Action] get_data() info: ...
+[2024-03-22 19:25:27]-[Action] get_data() info: ...
+[2024-03-22 19:25:27]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 700, 0, 2], ['Shorp', 2747, 0, 6]]
+[2024-03-22 19:25:27]-[Action] find_data_place() info:  dat find at: 4
+[2024-03-22 19:25:27]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-22 19:25:27]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-22 19:25:27]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-22 19:25:27]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-22 19:25:27]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-22 19:25:27]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-22 19:25:27]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 700, level: 0, xp: 2
+[2024-03-22 19:25:27]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-22 19:25:27]-[Action] inGame_data() info:  extract n:4, name: Shorp, score: 1200, level: 0, xp: 3
+[2024-03-22 19:25:27]-[Action] inGame_data_reverse() info:  Shorp,1200,0,3,
+
+[2024-03-22 19:25:27]-[Action] mod_data() info: ('Shorp', 1200, 0, 3) in score of: Shorp
+[2024-03-22 19:25:27]-[Action] get_data() info: ...
+[2024-03-22 19:25:39]-[Action] get_data() info: ...
+[2024-03-22 19:25:39]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 700, 0, 2], ['Shorp', 1200, 0, 3]]
+[2024-03-22 19:25:39]-[Action] find_data_place() info:  dat find at: 4
+[2024-03-22 19:25:39]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-22 19:25:39]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-22 19:25:39]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-22 19:25:39]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-22 19:25:39]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-22 19:25:39]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-22 19:25:39]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 700, level: 0, xp: 2
+[2024-03-22 19:25:39]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-22 19:25:39]-[Action] inGame_data() info:  extract n:4, name: Shorp, score: 2900, level: 0, xp: 3
+[2024-03-22 19:25:39]-[Action] inGame_data_reverse() info:  Shorp,2900,0,3,
+
+[2024-03-22 19:25:39]-[Action] mod_data() info: ('Shorp', 2900, 0, 3) in score of: Shorp
+[2024-03-22 19:25:39]-[Action] get_data() info: ...
+[2024-03-22 19:25:47]-[Action] get_data() info: ...
+[2024-03-22 19:25:47]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 700, 0, 2], ['Shorp', 2900, 0, 3]]
+[2024-03-22 19:25:47]-[Action] find_data_place() info:  dat find at: 4
+[2024-03-22 19:25:47]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-22 19:25:47]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-22 19:25:47]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-22 19:25:47]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-22 19:25:47]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-22 19:25:47]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-22 19:25:47]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 700, level: 0, xp: 2
+[2024-03-22 19:25:47]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-22 19:25:47]-[Action] inGame_data() info:  extract n:4, name: Shorp, score: 2900, level: 0, xp: 9
+[2024-03-22 19:25:47]-[Action] inGame_data_reverse() info:  Shorp,2900,0,9,
+
+[2024-03-22 19:25:47]-[Action] mod_data() info: ('Shorp', 2900, 0, 9) in score of: Shorp
+[2024-03-22 19:25:47]-[Action] get_data() info: ...
+[2024-03-22 19:26:03]-[Action] get_data() info: ...
+[2024-03-22 19:26:03]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 700, 0, 2], ['Shorp', 2900, 0, 9]]
+[2024-03-22 19:26:03]-[Action] find_data_place() info:  dat find at: 4
+[2024-03-22 19:26:03]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-22 19:26:03]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-22 19:26:03]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-22 19:26:03]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-22 19:26:03]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-22 19:26:03]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-22 19:26:03]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 700, level: 0, xp: 2
+[2024-03-22 19:26:03]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-22 19:26:03]-[Action] inGame_data() info:  extract n:4, name: Antares, score: 2900, level: 0, xp: 2
+[2024-03-22 19:26:03]-[Action] inGame_data_reverse() info:  Antares,2900,0,2,
+
+[2024-03-22 19:26:03]-[Action] mod_data() info: ('Antares', 2900, 0, 2) in score of: Shorp
+[2024-03-22 19:26:03]-[Action] get_data() info: ...
+[2024-03-22 19:26:32]-[Action] get_data() info: ...
+[2024-03-22 19:26:32]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-22 19:26:32]-[Action] find_data_place() info:  dat find at: 4
+[2024-03-22 19:26:32]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-22 19:26:32]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-22 19:26:32]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-22 19:26:32]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-22 19:26:32]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-22 19:26:32]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-22 19:26:32]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-22 19:26:32]-[Action] inGame_data_reverse() info:  Shorp,2747,0,6,
+
+[2024-03-22 19:26:32]-[Action] inGame_data() info:  extract n:4, name: Antares, score: 2900, level: 0, xp: 2
+[2024-03-22 19:26:32]-[Action] inGame_data_reverse() info:  Antares,2900,0,2,
+
+[2024-03-22 19:26:32]-[Action] mod_data() info: ('Antares', 2900, 0, 2) in score of: Antares
+[2024-03-22 19:26:32]-[Action] get_data() info: ...
+[2024-03-22 19:26:51]-[Action] get_data() info: ...
+[2024-03-22 19:26:51]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 2900, 0, 2]]
+[2024-03-22 19:26:51]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-22 19:26:51]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-22 19:26:51]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-22 19:26:51]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-22 19:26:51]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-22 19:26:51]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-22 19:26:51]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-22 19:26:51]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 2900, level: 0, xp: 2
+[2024-03-22 19:26:51]-[Action] inGame_data_reverse() info:  Antares,2900,0,2,
+
+[2024-03-22 19:26:51]-[Action] inGame_data() info:  extract n:4, name: Shorp, score: 2990, level: 0, xp: 9
+[2024-03-22 19:26:51]-[Action] inGame_data_reverse() info:  Shorp,2990,0,9,
+
+[2024-03-22 19:26:51]-[Action] mod_data() info: ('Shorp', 2990, 0, 9) in score of: Shorp
+[2024-03-22 19:26:51]-[Action] get_data() info: ...
+[2024-03-22 19:32:08]-[Action] get_data() info: ...
+[2024-03-22 19:32:08]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1000, 0, 2], ['Shorp', 1000, 0, 2]]
+[2024-03-22 19:32:08]-[Action] find_data_place() info:  dat find at: 4
+[2024-03-22 19:32:08]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-22 19:32:08]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-22 19:32:08]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-22 19:32:08]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-22 19:32:08]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-22 19:32:08]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-22 19:32:08]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 1000, level: 0, xp: 2
+[2024-03-22 19:32:08]-[Action] inGame_data_reverse() info:  Antares,1000,0,2,
+
+[2024-03-22 19:32:08]-[Action] inGame_data() info:  extract n:4, name: Shorp, score: 2990, level: 0, xp: 9
+[2024-03-22 19:32:08]-[Action] inGame_data_reverse() info:  Shorp,2990,0,9,
+
+[2024-03-22 19:32:08]-[Action] mod_data() info: ('Shorp', 2990, 0, 9) in score of: Shorp
+[2024-03-22 19:32:08]-[Action] get_data() info: ...
+[2024-03-22 19:32:09]-[Action] get_data() info: ...
+[2024-03-22 19:32:09]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1000, 0, 2], ['Shorp', 2990, 0, 9]]
+[2024-03-22 19:32:09]-[Action] find() info:  data find: ['Antares', 1000, 0, 2]
+[2024-03-22 19:32:09]-[Action] get_data() info: ...
+[2024-03-22 19:32:09]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1000, 0, 2], ['Shorp', 2990, 0, 9]]
+[2024-03-22 19:32:09]-[Action] find() info:  data find: ['Shorp', 2990, 0, 9]
+[2024-03-22 19:32:48]-[Action] get_data() info: ...
+[2024-03-22 19:32:48]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1000, 0, 2], ['Shorp', 2990, 0, 9]]
+[2024-03-22 19:32:48]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-22 19:32:48]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-22 19:32:48]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-22 19:32:48]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-22 19:32:48]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-22 19:32:48]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-22 19:32:48]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-22 19:32:48]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2990, level: 0, xp: 9
+[2024-03-22 19:32:48]-[Action] inGame_data_reverse() info:  Shorp,2990,0,9,
+
+[2024-03-22 19:32:48]-[Action] inGame_data() info:  extract n:4, name: Antares, score: 2996, level: 0, xp: 5
+[2024-03-22 19:32:48]-[Action] inGame_data_reverse() info:  Antares,2996,0,5,
+
+[2024-03-22 19:32:48]-[Action] mod_data() info: ('Antares', 2996, 0, 5) in score of: Antares
+[2024-03-22 19:32:48]-[Action] get_data() info: ...
+[2024-03-22 19:32:48]-[Action] get_data() info: ...
+[2024-03-22 19:32:48]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2990, 0, 9], ['Antares', 2996, 0, 5]]
+[2024-03-22 19:32:48]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-22 19:32:48]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-22 19:32:48]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-22 19:32:48]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-22 19:32:48]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-22 19:32:48]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-22 19:32:48]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-22 19:32:48]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 2996, level: 0, xp: 5
+[2024-03-22 19:32:48]-[Action] inGame_data_reverse() info:  Antares,2996,0,5,
+
+[2024-03-22 19:32:48]-[Action] inGame_data() info:  extract n:4, name: Antares, score: 2996, level: 0, xp: 5
+[2024-03-22 19:32:48]-[Action] inGame_data_reverse() info:  Antares,2996,0,5,
+
+[2024-03-22 19:32:48]-[Action] mod_data() info: ('Antares', 2996, 0, 5) in score of: Shorp
+[2024-03-22 19:32:48]-[Action] get_data() info: ...
+[2024-03-22 19:33:51]-[Action] get_data() info: ...
+[2024-03-22 19:33:51]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-22 19:33:51]-[Action] find() info:  data find: ['Antares', 700, 0, 2]
+[2024-03-22 19:33:51]-[Action] get_data() info: ...
+[2024-03-22 19:33:51]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-22 19:33:51]-[Action] find() info:  data find: ['Shorp', 2747, 0, 6]
+[2024-03-22 19:34:24]-[Action] get_data() info: ...
+[2024-03-22 19:34:24]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-22 19:34:24]-[Action] find_data_place() info:  dat find at: 4
+[2024-03-22 19:34:24]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-22 19:34:24]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-22 19:34:24]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-22 19:34:24]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-22 19:34:24]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-22 19:34:24]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-22 19:34:24]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-22 19:34:24]-[Action] inGame_data_reverse() info:  Shorp,2747,0,6,
+
+[2024-03-22 19:34:24]-[Action] inGame_data() info:  extract n:4, name: Antares, score: 2113, level: 0, xp: 5
+[2024-03-22 19:34:24]-[Action] inGame_data_reverse() info:  Antares,2113,0,5,
+
+[2024-03-22 19:34:24]-[Action] mod_data() info: ('Antares', 2113, 0, 5) in score of: Antares
+[2024-03-22 19:34:24]-[Action] get_data() info: ...
+[2024-03-22 19:34:24]-[Action] get_data() info: ...
+[2024-03-22 19:34:24]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 2113, 0, 5]]
+[2024-03-22 19:34:24]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-22 19:34:24]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-22 19:34:24]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-22 19:34:24]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-22 19:34:24]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-22 19:34:24]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-22 19:34:24]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-22 19:34:24]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 2113, level: 0, xp: 5
+[2024-03-22 19:34:24]-[Action] inGame_data_reverse() info:  Antares,2113,0,5,
+
+[2024-03-22 19:34:24]-[Action] inGame_data() info:  extract n:4, name: Antares, score: 2113, level: 0, xp: 5
+[2024-03-22 19:34:24]-[Action] inGame_data_reverse() info:  Antares,2113,0,5,
+
+[2024-03-22 19:34:24]-[Action] mod_data() info: ('Antares', 2113, 0, 5) in score of: Shorp
+[2024-03-22 19:34:24]-[Action] get_data() info: ...
+[2024-03-22 19:35:10]-[Action] get_data() info: ...
+[2024-03-22 19:35:10]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-22 19:35:10]-[Action] find() info:  data find: ['Antares', 700, 0, 2]
+[2024-03-22 19:35:10]-[Action] get_data() info: ...
+[2024-03-22 19:35:10]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-22 19:35:10]-[Action] find() info:  data find: ['Shorp', 2747, 0, 6]
+[2024-03-22 19:36:27]-[Action] get_data() info: ...
+[2024-03-22 19:36:27]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-22 19:36:27]-[Action] find_data_place() info:  dat find at: 4
+[2024-03-22 19:36:27]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-22 19:36:27]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-22 19:36:27]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-22 19:36:27]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-22 19:36:27]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-22 19:36:27]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-22 19:36:27]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 2747, level: 0, xp: 6
+[2024-03-22 19:36:27]-[Action] inGame_data_reverse() info:  Shorp,2747,0,6,
+
+[2024-03-22 19:36:27]-[Action] inGame_data() info:  extract n:4, name: Antares, score: 700, level: 0, xp: 2
+[2024-03-22 19:36:27]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-22 19:36:27]-[Action] mod_data() info: ('Antares', 700, 0, 2) in score of: Antares
+[2024-03-22 19:36:27]-[Action] get_data() info: ...
+[2024-03-22 19:36:27]-[Action] get_data() info: ...
+[2024-03-22 19:36:27]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 2747, 0, 6], ['Antares', 700, 0, 2]]
+[2024-03-22 19:36:27]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-22 19:36:27]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-22 19:36:27]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-22 19:36:27]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-22 19:36:27]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-22 19:36:27]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-22 19:36:27]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-22 19:36:27]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 700, level: 0, xp: 2
+[2024-03-22 19:36:27]-[Action] inGame_data_reverse() info:  Antares,700,0,2,
+
+[2024-03-22 19:36:27]-[Action] inGame_data() info:  extract n:4, name: Shorp, score: 7340, level: 0, xp: 13
+[2024-03-22 19:36:27]-[Action] inGame_data_reverse() info:  Shorp,7340,0,13,
+
+[2024-03-22 19:36:27]-[Action] mod_data() info: ('Shorp', 7340, 0, 13) in score of: Shorp
+[2024-03-22 19:36:27]-[Action] get_data() info: ...
+[2024-03-22 19:57:53]-[Action] get_data() info: ...
+[2024-03-22 19:57:53]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 700, 0, 2], ['Shorp', 7340, 0, 13]]
+[2024-03-22 19:57:53]-[Action] find() info:  data find: ['Antares', 700, 0, 2]
+[2024-03-22 19:57:53]-[Action] get_data() info: ...
+[2024-03-22 19:57:53]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 700, 0, 2], ['Shorp', 7340, 0, 13]]
+[2024-03-22 19:57:53]-[Action] find() info:  data find: ['Shorp', 7340, 0, 13]
+[2024-03-22 19:58:06]-[Action] get_data() info: ...
+[2024-03-22 19:58:06]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 700, 0, 2], ['Shorp', 7340, 0, 13]]
+[2024-03-22 19:58:06]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-22 19:58:06]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-22 19:58:06]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-22 19:58:06]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-22 19:58:06]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-22 19:58:06]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-22 19:58:06]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-22 19:58:06]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 7340, level: 0, xp: 13
+[2024-03-22 19:58:06]-[Action] inGame_data_reverse() info:  Shorp,7340,0,13,
+
+[2024-03-22 19:58:06]-[Action] inGame_data() info:  extract n:4, name: Antares, score: 1346, level: 0, xp: 5
+[2024-03-22 19:58:06]-[Action] inGame_data_reverse() info:  Antares,1346,0,5,
+
+[2024-03-22 19:58:06]-[Action] mod_data() info: ('Antares', 1346, 0, 5) in score of: Antares
+[2024-03-22 19:58:06]-[Action] get_data() info: ...
+[2024-03-22 19:58:06]-[Action] get_data() info: ...
+[2024-03-22 19:58:06]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Shorp', 7340, 0, 13], ['Antares', 1346, 0, 5]]
+[2024-03-22 19:58:06]-[Action] find_data_place() info:  dat find at: 3
+[2024-03-22 19:58:06]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-03-22 19:58:06]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-03-22 19:58:06]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-03-22 19:58:06]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-03-22 19:58:06]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-03-22 19:58:06]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-03-22 19:58:06]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 1346, level: 0, xp: 5
+[2024-03-22 19:58:06]-[Action] inGame_data_reverse() info:  Antares,1346,0,5,
+
+[2024-03-22 19:58:06]-[Action] inGame_data() info:  extract n:4, name: Shorp, score: 7340, level: 0, xp: 13
+[2024-03-22 19:58:06]-[Action] inGame_data_reverse() info:  Shorp,7340,0,13,
+
+[2024-03-22 19:58:06]-[Action] mod_data() info: ('Shorp', 7340, 0, 13) in score of: Shorp
+[2024-03-22 19:58:06]-[Action] get_data() info: ...
+[2024-03-22 20:07:50]-[Action] get_data() info: ...
+[2024-03-22 20:08:02]-[Action] get_data() info: ...
+[2024-03-22 20:10:37]-[Action] get_data() info: ...
+[2024-03-22 20:11:00]-[Action] get_data() info: ...
+[2024-03-22 20:11:03]-[Action] get_data() info: ...
+[2024-03-22 20:11:07]-[Action] get_data() info: ...
+[2024-03-22 20:19:28]-[Action] get_data() info: ...
+[2024-03-22 20:20:11]-[Action] get_data() info: ...
+[2024-03-22 20:20:36]-[Action] get_data() info: ...
+[2024-03-22 20:20:47]-[Action] get_data() info: ...
+[2024-03-22 20:21:16]-[Action] get_data() info: ...
+[2024-03-22 20:26:15]-[Action] get_data() info: ...
+[2024-03-22 20:27:55]-[Action] get_data() info: ...
+[2024-05-16 09:23:47]-[Action] get_data() info: ...
+[2024-05-16 09:23:47]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1346, 0, 5], ['Shorp', 7340, 0, 13]]
+[2024-05-16 09:23:47]-[Action] find() info:  data find: None
+[2024-05-16 09:23:47]-[Action] get_data() info: ...
+[2024-05-16 09:23:47]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1346, 0, 5], ['Shorp', 7340, 0, 13]]
+[2024-05-16 09:23:47]-[Action] find() info:  data find: None
+[2024-05-16 09:24:40]-[Action] get_data() info: ...
+[2024-05-16 09:24:40]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1346, 0, 5], ['Shorp', 7340, 0, 13]]
+[2024-05-16 09:24:40]-[Action] find() info:  data find: None
+[2024-05-16 09:24:40]-[Action] get_data() info: ...
+[2024-05-16 09:24:40]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1346, 0, 5], ['Shorp', 7340, 0, 13]]
+[2024-05-16 09:24:40]-[Action] find() info:  data find: None
+[2024-05-16 09:25:17]-[Action] inGame_data_reverse() info:  tgtg,0,0,0,
+
+[2024-05-16 09:25:17]-[Action] set_data() info: tgtg,0,0,0,
+
+[2024-05-16 09:25:17]-[Action] get_data() info: ...
+[2024-05-16 09:25:17]-[Action] inGame_data_reverse() info:  gg,1524,0,2,
+
+[2024-05-16 09:25:17]-[Action] set_data() info: gg,1524,0,2,
+
+[2024-05-16 09:25:17]-[Action] get_data() info: ...
+[2024-05-16 09:34:22]-[Action] get_data() info: ...
+[2024-05-16 09:34:22]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1346, 0, 5], ['Shorp', 7340, 0, 13]]
+[2024-05-16 09:34:22]-[Action] find() info:  data find: ['Shorp', 7340, 0, 13]
+[2024-05-16 09:34:22]-[Action] get_data() info: ...
+[2024-05-16 09:34:22]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1346, 0, 5], ['Shorp', 7340, 0, 13]]
+[2024-05-16 09:34:22]-[Action] find() info:  data find: ['GrosCarabe', 4807, 0, 0]
+[2024-05-16 09:36:17]-[Action] get_data() info: ...
+[2024-05-16 09:36:17]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1346, 0, 5], ['Shorp', 7340, 0, 13]]
+[2024-05-16 09:36:17]-[Action] find_data_place() info:  dat find at: 4
+[2024-05-16 09:36:17]-[Action] inGame_data() info:  extract n:0, name: GrosCarabe, score: 4807, level: 0, xp: 0
+[2024-05-16 09:36:17]-[Action] inGame_data_reverse() info:  GrosCarabe,4807,0,0,
+
+[2024-05-16 09:36:17]-[Action] inGame_data() info:  extract n:1, name: Leo, score: 7642, level: 0, xp: 0
+[2024-05-16 09:36:17]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-05-16 09:36:17]-[Action] inGame_data() info:  extract n:2, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-05-16 09:36:17]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-05-16 09:36:17]-[Action] inGame_data() info:  extract n:3, name: Antares, score: 1346, level: 0, xp: 5
+[2024-05-16 09:36:17]-[Action] inGame_data_reverse() info:  Antares,1346,0,5,
+
+[2024-05-16 09:36:17]-[Action] inGame_data() info:  extract n:4, name: Shorp, score: 11929, level: 0, xp: 20
+[2024-05-16 09:36:17]-[Action] inGame_data_reverse() info:  Shorp,11929,0,20,
+
+[2024-05-16 09:36:17]-[Action] mod_data() info: ('Shorp', 11929, 0, 20) in score of: Shorp
+[2024-05-16 09:36:17]-[Action] get_data() info: ...
+[2024-05-16 09:36:17]-[Action] get_data() info: ...
+[2024-05-16 09:36:17]-[Action] read_data() info: [['GrosCarabe', 4807, 0, 0], ['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1346, 0, 5], ['Shorp', 11929, 0, 20]]
+[2024-05-16 09:36:17]-[Action] find_data_place() info:  dat find at: 0
+[2024-05-16 09:36:17]-[Action] inGame_data() info:  extract n:0, name: Leo, score: 7642, level: 0, xp: 0
+[2024-05-16 09:36:17]-[Action] inGame_data_reverse() info:  Leo,7642,0,0,
+
+[2024-05-16 09:36:17]-[Action] inGame_data() info:  extract n:1, name: Th2O, score: 9080, level: 0, xp: 0
+[2024-05-16 09:36:17]-[Action] inGame_data_reverse() info:  Th2O,9080,0,0,
+
+[2024-05-16 09:36:17]-[Action] inGame_data() info:  extract n:2, name: Antares, score: 1346, level: 0, xp: 5
+[2024-05-16 09:36:17]-[Action] inGame_data_reverse() info:  Antares,1346,0,5,
+
+[2024-05-16 09:36:17]-[Action] inGame_data() info:  extract n:3, name: Shorp, score: 11929, level: 0, xp: 20
+[2024-05-16 09:36:17]-[Action] inGame_data_reverse() info:  Shorp,11929,0,20,
+
+[2024-05-16 09:36:17]-[Action] inGame_data() info:  extract n:4, name: GrosCarabe, score: 6755, level: 0, xp: 4
+[2024-05-16 09:36:17]-[Action] inGame_data_reverse() info:  GrosCarabe,6755,0,4,
+
+[2024-05-16 09:36:17]-[Action] mod_data() info: ('GrosCarabe', 6755, 0, 4) in score of: GrosCarabe
+[2024-05-16 09:36:17]-[Action] get_data() info: ...
+[2024-05-16 09:38:08]-[Action] get_data() info: ...
+[2024-05-16 09:38:08]-[Action] read_data() info: [['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1346, 0, 5], ['Shorp', 11929, 0, 20], ['GrosCarabe', 6755, 0, 4]]
+[2024-05-16 09:38:08]-[Action] find() info:  data find: None
+[2024-05-16 09:38:08]-[Action] get_data() info: ...
+[2024-05-16 09:38:08]-[Action] read_data() info: [['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1346, 0, 5], ['Shorp', 11929, 0, 20], ['GrosCarabe', 6755, 0, 4]]
+[2024-05-16 09:38:08]-[Action] find() info:  data find: None
+[2024-05-16 09:38:15]-[Action] inGame_data_reverse() info:  a,0,0,0,
+
+[2024-05-16 09:38:15]-[Action] set_data() info: a,0,0,0,
+
+[2024-05-16 09:38:15]-[Action] get_data() info: ...
+[2024-05-16 09:38:15]-[Action] inGame_data_reverse() info:  b,347,0,1,
+
+[2024-05-16 09:38:15]-[Action] set_data() info: b,347,0,1,
+
+[2024-05-16 09:38:15]-[Action] get_data() info: ...
+[2024-09-06 08:35:03]-[Action] get_data() info: ...
+[2024-09-06 08:35:03]-[Action] read_data() info: [['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1346, 0, 5], ['Shorp', 11929, 0, 20], ['GrosCarabe', 6755, 0, 4]]
+[2024-09-06 08:35:03]-[Action] find() info:  data find: None
+[2024-09-06 08:35:03]-[Action] get_data() info: ...
+[2024-09-06 08:35:03]-[Action] read_data() info: [['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1346, 0, 5], ['Shorp', 11929, 0, 20], ['GrosCarabe', 6755, 0, 4]]
+[2024-09-06 08:35:03]-[Action] find() info:  data find: None
+[2024-09-06 08:35:11]-[Action] inGame_data_reverse() info:  & C:/Users/ARRMAND.MARTIN/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/ARRMAND.MARTIN/Documents/1G3/NSI/Mini-projet/Tron_/tron.py,0,0,0,
+
+[2024-09-06 08:35:11]-[Action] set_data() info: & C:/Users/ARRMAND.MARTIN/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/ARRMAND.MARTIN/Documents/1G3/NSI/Mini-projet/Tron_/tron.py,0,0,0,
+
+[2024-09-06 08:35:11]-[Action] get_data() info: ...
+[2024-09-06 08:35:11]-[Action] inGame_data_reverse() info:  A,368,0,1,
+
+[2024-09-06 08:35:11]-[Action] set_data() info: A,368,0,1,
+
+[2024-09-06 08:35:11]-[Action] get_data() info: ...
+[2024-09-06 08:38:15]-[Action] get_data() info: ...
+[2024-09-13 09:47:20]-[Action] get_data() info: ...
+[2024-09-13 09:47:20]-[Action] read_data() info: [['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1346, 0, 5], ['Shorp', 11929, 0, 20], ['GrosCarabe', 6755, 0, 4], ['& C:/Users/ARRMAND.MARTIN/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/ARRMAND.MARTIN/Documents/1G3/NSI/Mini-projet/Tron_/tron.py', 0, 0, 0], ['A', 368, 0, 1]]
+[2024-09-13 09:47:20]-[Action] find() info:  data find: None
+[2024-09-13 09:47:20]-[Action] get_data() info: ...
+[2024-09-13 09:47:20]-[Action] read_data() info: [['Leo', 7642, 0, 0], ['Th2O', 9080, 0, 0], ['Antares', 1346, 0, 5], ['Shorp', 11929, 0, 20], ['GrosCarabe', 6755, 0, 4], ['& C:/Users/ARRMAND.MARTIN/AppData/Local/Microsoft/WindowsApps/python3.11.exe c:/Users/ARRMAND.MARTIN/Documents/1G3/NSI/Mini-projet/Tron_/tron.py', 0, 0, 0], ['A', 368, 0, 1]]
+[2024-09-13 09:47:20]-[Action] find() info:  data find: None
+[2024-09-13 09:47:33]-[Action] inGame_data_reverse() info:  SHorp,639,0,1,
+
+[2024-09-13 09:47:33]-[Action] set_data() info: SHorp,639,0,1,
+
+[2024-09-13 09:47:33]-[Action] get_data() info: ...
+[2024-09-13 09:47:33]-[Action] inGame_data_reverse() info:  e,0,0,0,
+
+[2024-09-13 09:47:33]-[Action] set_data() info: e,0,0,0,
+
+[2024-09-13 09:47:33]-[Action] get_data() info: ...

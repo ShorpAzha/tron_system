@@ -10,7 +10,7 @@ while user==False:
 import pygame
 from random import *
 
-from score_system.py import find, reader_data, log, mod_data, set_data, Ingame_data_reverse
+from tron_score_system import *
 
 #constantes de la fenêtre d'affichage
 LARGEUR=1200       #hauteur de la fenêtre
@@ -191,13 +191,13 @@ while loop==True:
     #fenetre.fill((0,0,0))   #efface la fenêtre, non utilisé ici
 
     if deplacementmoto()==True or deplacementmoto_()==True:
-        if deplacementmoto_()==True:
+        if deplacementmoto()==True:
             pl_win=str(user_name_j1)
             score=tempsPartie
             scoretot+=score
             xp+=1
             win_scr=score
-        elif deplacementmoto()==True:
+        elif deplacementmoto_()==True:
             pl_win=str(user_name_j2)
             score_=tempsPartie
             score_tot+=score_

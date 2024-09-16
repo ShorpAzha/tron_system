@@ -10,7 +10,7 @@ while user==False:
 import pygame
 from random import *
 
-from tron_score_system import *
+from score_system import *
 
 #constantes de la fenêtre d'affichage
 LARGEUR=1200       #hauteur de la fenêtre
